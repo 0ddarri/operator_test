@@ -1,0 +1,4 @@
+﻿  Operator_test.cpp
+C:\Users\launc\source\repos\_operator_test\Operator_test.cpp(34,17): error C2676: 이항 '+': 'myop_Error::Point'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Users\launc\source\repos\_operator_test\Operator_test.cpp(34,12): error C2512: 'myop_Error::Point': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+C:\Users\launc\source\repos\_operator_test\Operator_test.cpp(11,8): message : 'myop_Error::Point' 선언을 참조하십시오.
